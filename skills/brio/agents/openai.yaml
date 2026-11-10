@@ -1,0 +1,6 @@
+interface:
+  display_name: "Brio"
+  short_description: "Explain a topic until it is truly understood"
+
+policy:
+  allow_implicit_invocation: false
